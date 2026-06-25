@@ -19,7 +19,7 @@ let config = {
 
   devices: {
     phone: {
-      title: "Samsung Galaxy S21",
+      title: "Samsung Galaxy S23",
       width: 360,
       height: 800,
       deviceScaleFactor: 3,
@@ -29,7 +29,7 @@ let config = {
       mobile: true,
     },
     desktop: {
-      title: "Dell Xps 15",
+      title: "Dell Latitude 5320",
       width: 1920,
       height: 1080,
       deviceScaleFactor: 1,
