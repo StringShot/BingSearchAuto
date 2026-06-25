@@ -1,13 +1,17 @@
 let words = [
     "Best coffee shops near me",
+    "Starbucks near me",
     "How to learn coding online",
+    "Codingal website",
     "Healthy dinner recipes quick",
-    "Top travel destinations 2023",
+    "Ramen recipe for dinner",
+    "Top travel destinations this year",
+    "Jet2Holiday Hawai",
     "Funny cat videos compilation",
     "Learn to play guitar tutorial",
     "Mindfulness meditation techniques",
     "DIY home decor ideas",
-    "New sci-fi books 2023",
+    "New sci-fi books this year",
     "Beginner workout routine at home",
     "Photography tips for beginners",
     "Interesting facts about space",
@@ -1555,4 +1559,4 @@ let words = [
     "gaming laptops with AMD Radeon RX 6700M 2023",
 ]
 
-export default words
+export default phrses
