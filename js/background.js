@@ -1,5 +1,5 @@
 // Words list for searches
-const words = [
+const phrses = [
   "Best coffee shops near me",
   "How to learn coding online",
   "Healthy dinner recipes quick",
@@ -60,7 +60,7 @@ const config = {
   },
   devices: {
     phone: {
-      title: "Samsung Galaxy S21",
+      title: "Samsung Galaxy S23",
       width: 360,
       height: 800,
       deviceScaleFactor: 3,
@@ -70,7 +70,7 @@ const config = {
       mobile: true,
     },
     desktop: {
-      title: "Dell Xps 15",
+      title: "Dell Latitude 5320",
       width: 1920,
       height: 1080,
       deviceScaleFactor: 1,
